@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".modeofpayment">
+
+
+
+
+    <TextView
+        android:id="@+id/textView27"
+        android:textStyle="italic|bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Complete Your Order Here..." />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/payhere"
+            android:layout_width="399dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="50dp"
+            app:srcCompat="@drawable/payhere" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="342dp"
+        android:layout_weight="1"
+        android:text="For Deliveries Send Us your Live Location vie this number below "
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0700175002"
+        app:backgroundTint="#FF1100" />
+
+</LinearLayout>

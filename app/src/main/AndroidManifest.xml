@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ifood">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ifood"
+        tools:targetApi="31">
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+
+        <activity
+            android:name=".peas"
+            android:exported="false" />
+        <activity
+            android:name=".maize"
+            android:exported="false" />
+        <activity
+            android:name=".vodka"
+            android:exported="false" />
+        <activity
+            android:name=".gin"
+            android:exported="false" />
+        <activity
+            android:name=".konyagi"
+            android:exported="false" />
+        <activity
+            android:name=".breast"
+            android:exported="false" />
+        <activity
+            android:name=".porkribs"
+            android:exported="false" />
+        <activity
+            android:name=".drumstick"
+            android:exported="false" />
+        <activity
+            android:name=".yoghurt"
+            android:exported="false" />
+        <activity
+            android:name=".mozzarella"
+            android:exported="false" />
+        <activity
+            android:name=".slicedcheese"
+            android:exported="false" />
+        <activity
+            android:name=".milo"
+            android:exported="false" />
+        <activity
+            android:name=".nescafe"
+            android:exported="false" />
+        <activity
+            android:name=".hibiscus"
+            android:exported="false" />
+        <activity
+            android:name=".tea"
+            android:exported="false" />
+        <activity
+            android:name=".dormans"
+            android:exported="false" />
+        <activity
+            android:name=".sprite"
+            android:exported="false" />
+        <activity
+            android:name=".pepsi"
+            android:exported="false" />
+        <activity
+            android:name=".fanta"
+            android:exported="false" />
+        <activity
+            android:name=".coke"
+            android:exported="false" />
+        <activity
+            android:name=".paprika"
+            android:exported="false" />
+        <activity
+            android:name=".garlic"
+            android:exported="false" />
+        <activity
+            android:name=".chilli"
+            android:exported="false" />
+        <activity
+            android:name=".cayenne"
+            android:exported="false" />
+        <activity
+            android:name=".bpepper"
+            android:exported="false" />
+        <activity
+            android:name=".mango"
+            android:exported="false" />
+        <activity
+            android:name=".pineapple"
+            android:exported="false" />
+        <activity
+            android:name=".watermelon"
+            android:exported="false" />
+        <activity
+            android:name=".avacado"
+            android:exported="false" />
+        <activity
+            android:name=".modeofpayment"
+            android:exported="false" />
+        <activity
+            android:name=".apple"
+            android:exported="false" />
+        <activity
+            android:name=".grains"
+            android:exported="false" />
+        <activity
+            android:name=".alcoholicdrinks"
+            android:exported="false" />
+        <activity
+            android:name=".meat"
+            android:exported="false" />
+        <activity
+            android:name=".spices"
+            android:exported="false" />
+        <activity
+            android:name=".dairyproducts"
+            android:exported="false" />
+        <activity
+            android:name=".softdrinks"
+            android:exported="false" />
+        <activity
+            android:name=".hotdrinks"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

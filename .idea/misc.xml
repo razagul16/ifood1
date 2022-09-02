@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.103" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1165" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_alcoholicdrinks.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_apple.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_avacado.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_bpepper.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_breast.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_cayenne.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_chilli.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_coke.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_dairyproducts.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_dormans.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_drumstick.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_fanta.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_fruits.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_garlic.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_gin.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_grains.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_hibiscus.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_hotdrinks.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_konyagi.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_maize.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_mango.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_meat.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_milo.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_modeofpayment.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_mozzarella.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_nescafe.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_paprika.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_peas.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_pepsi.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_pineapple.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_porkribs.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_signup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_slicedcheese.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_softdrinks.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_spices.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_sprite.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_tea.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_vodka.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_watermelon.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/activity_yoghurt.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/btnbg.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/fruit_layout.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ifood/app/src/main/res/layout/round_black_dark_blue5_t5.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
